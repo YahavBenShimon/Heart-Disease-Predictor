@@ -6,7 +6,7 @@ For more details and to access the dataset, visit [Heart Disease UCI on Kaggle](
 
 ## Objective
 
-Our primary aim is not just to predict the onset of heart disease, but to evaluate and compare the performance (using the F1 score as the metric) of different machine learning algorithms.
+The primary aim is not just to predict the onset of heart disease, but to evaluate and compare the performance (using the F1 score as the metric) of different machine learning algorithms.
  This provides insights into which algorithms are potentially more suitable for real-world applications in this domain.
 
 ## Algorithms Evaluated
