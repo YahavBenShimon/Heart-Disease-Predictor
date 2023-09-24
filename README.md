@@ -16,3 +16,6 @@ The primary aim is not just to predict the onset of heart disease, but to evalua
 - **Random Forest**
 - **Artificial Neural Networks (ANN)**
 - **Support Vector Machines (SVM)**
+
+## Contributors
+- [Yahav Ben Shimon](https://github.com/YahavBenShimon)
